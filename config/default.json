@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:vy3uSILcw1rlUKjq@china-express.ftb0yq6.mongodb.net/?retryWrites=true&w=majority&appName=china-express",
+    "secretKey" : "mern-secret-key"
+}
